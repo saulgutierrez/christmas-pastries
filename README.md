@@ -8,3 +8,5 @@ Technologies used:
 <li>Javascript</li>
 <li>Google Fonts</li>
 <li>RemixIcon</li>
+
+![image](https://github.com/saulgutierrez/christmas-pastries/assets/62368834/2002af63-f823-4d11-b28a-74eda30d5e4b)
